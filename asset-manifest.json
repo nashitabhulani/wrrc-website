@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/wrrc-website/static/css/main.b709cdba.css",
+    "main.js": "/wrrc-website/static/js/main.63bf1b77.js",
+    "static/js/453.1202f662.chunk.js": "/wrrc-website/static/js/453.1202f662.chunk.js",
+    "static/media/download (1).png": "/wrrc-website/static/media/download (1).4194be2df935234a48be.png",
+    "static/media/img1.png": "/wrrc-website/static/media/img1.e4189620b92d567a1cee.png",
+    "static/media/download.png": "/wrrc-website/static/media/download.02a96321598ca63cdfff.png",
+    "static/media/Group-363-768x830.webp": "/wrrc-website/static/media/Group-363-768x830.1d2e72b19747afeb7377.webp",
+    "static/media/download (7).png": "/wrrc-website/static/media/download (7).dad1975e9949c3a22075.png",
+    "static/media/download (5).png": "/wrrc-website/static/media/download (5).9e1e28454ec5f6a2f5f4.png",
+    "static/media/download (2).png": "/wrrc-website/static/media/download (2).a246d399fa6823b87bef.png",
+    "static/media/download (3).png": "/wrrc-website/static/media/download (3).e66ce97dd259ad22bb7b.png",
+    "static/media/download (4).png": "/wrrc-website/static/media/download (4).9c8f7fb183e595036d97.png",
+    "static/media/WRRC-LOGO.png": "/wrrc-website/static/media/WRRC-LOGO.a2c3c7f0e671428d7762.png",
+    "static/media/download (9).png": "/wrrc-website/static/media/download (9).9e18959e8eed2be6f5a3.png",
+    "static/media/slick.svg": "/wrrc-website/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/wrrc-website/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/wrrc-website/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/wrrc-website/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/wrrc-website/index.html",
+    "main.b709cdba.css.map": "/wrrc-website/static/css/main.b709cdba.css.map",
+    "main.63bf1b77.js.map": "/wrrc-website/static/js/main.63bf1b77.js.map",
+    "453.1202f662.chunk.js.map": "/wrrc-website/static/js/453.1202f662.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b709cdba.css",
+    "static/js/main.63bf1b77.js"
+  ]
+}
